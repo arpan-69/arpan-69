@@ -1,98 +1,142 @@
-<!-- Header Banner with Capsule-Render -->
+<!-- Professional Futuristic Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee7752,50:e73c7e,100:23a6d5&height=250&section=header&text=Namaste%20%F0%9F%99%8F%20Welcome%20to%20My%20Profile!&fontSize=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:a855f7&height=200&section=header&text=Namaste%20🙏%20Welcome!&fontSize=32&animation=fadeIn&fontColor=ffffff" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-🎓 Final-year B.Tech CSE student at **KIIT University** (CGPA: 9.03)  
-🧠 Pursuing a minor in **Applied Machine Learning**, passionate about **AI**, **LLMs**, **Computer Vision**, **AI Agents**, and **RAG Systems**  
-💡 I love building practical, high-impact tech solutions that help people and solve real-world problems  
-📌 Patent holder in centralized healthcare systems  
-🌱 Currently learning: `Next.js`, `LLMs`, `Hybrid AI Agents`, and `Cloud Deployment`  
-📫 Reach me: [arpanofficial321@gmail.com](mailto:arpanofficial321@gmail.com)
-
----
-
-## 🚀 My Tech Stack
-
-| Category | Tools & Frameworks |
-|---------|---------------------|
-| **Languages** | <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> |
-| **AI/ML** | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-AF2020?style=for-the-badge"/> <img src="https://img.shields.io/badge/SVM-007ACC?style=for-the-badge"/> <img src="https://img.shields.io/badge/KNN-3F51B5?style=for-the-badge"/> <img src="https://img.shields.io/badge/RandomForest-228B22?style=for-the-badge"/> |
-| **Web Dev** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> |
-| **Data & Viz** | <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/> |
-| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> |
-| **Database** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge"/> |
-
----
-
-## 🧠 Highlight Projects
-
-### 🔬 [Medical RAG Chatbot](https://github.com/arpan-69/End_to_end_medical_assistant)
-> AI medical assistant using **RAG**, **LangChain**, **ChromaDB**, and **BioMistral-7B**  
-> 🧬 Achieved 42% reduction in hallucinations through structured retrieval + predefined medical templates.
-
-### 🖼️ [RenderX – Bidirectional Image Generator](https://github.com/JyotikaJayani-08/Mini_Project)
-> Deep learning platform converting sketches ↔ realistic images using a custom **Pix2Pix GAN**  
-> 📷 SSIM score of 0.82 across categories like faces and flowers
-
-### 🎯 [Cancer Prediction Model](https://github.com/arpan-69/Cancer-predicition)
-> Achieved **99% accuracy** with models like **XGBoost, SVM, Random Forest**  
-> 🩺 Oversampling, feature selection & cross-validation for robustness
-
----
-
-## 🏅 Patent
-
-**Title:** Integrated Centralized Healthcare Management System for Efficient and Accessible Patient Care  
-📜 Application No.: 202531012221 A  
-📅 Published: Feb 28, 2025  
-🔗 [Link to Patent](https://search.ipindia.gov.in/IPOJournal/Journal/Patent)
-
----
-
-## 🌍 Volunteer Work – TPH Society (2024–present)
-
-- Mental health awareness & support  
-- Assisted elderly in old-age homes  
-- Donated essentials to the underprivileged  
-
----
-
-## 📜 Certifications
-
-- ✅ [HackerRank Python](https://www.hackerrank.com/certificates/d8aa4ac36aa0)  
-- ✅ Deloitte Australia – Data Analytics Simulation  
-- ✅ AWS Cloud Foundations & Architecture (via AWS Academy)
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpan-69&show_icons=true&theme=github_dark" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpan-69&layout=compact&theme=github_dark" width="50%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Arpan+Mitra;AI+Engineer+%7C+ML+Enthusiast;Building+Intelligent+Solutions" alt="Typing Animation" />
 </div>
 
+---
+
+## 👨‍💻 **About Me**
+
+<div style="background: linear-gradient(135deg, #1e1b4b 0%, #312e81 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #a855f7;">
+
+🎓 **Final-year B.Tech CSE** at **KIIT University** (CGPA: 9.03)  
+🧠 **Minor in Applied Machine Learning** - Specializing in **AI**, **LLMs**, **Computer Vision**, and **RAG Systems**  
+💡 Passionate about building **practical, high-impact tech solutions** that solve real-world problems  
+📌 **Patent holder** in centralized healthcare systems  
+🌱 **Currently exploring:** Next.js, Advanced LLMs, Hybrid AI Agents, Cloud Deployment  
+📧 **Contact:** [arpanofficial321@gmail.com](mailto:arpanofficial321@gmail.com)
+
+</div>
 
 ---
 
-## 🙌 Let’s Collaborate
+## 🚀 **Tech Arsenal**
 
-<table width="100%" style="border: none;">
+| **Category** | **Technologies & Tools** |
+|-------------|--------------------------|
+| **Programming Languages** | <img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" height="40"/> |
+| **AI/ML Frameworks** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" height="40"/> <img src="https://img.shields.io/badge/LangChain-121212?style=flat&logo=langchain&logoColor=white" height="40"/> |
+| **ML Algorithms** | <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/SVM-4CAF50?style=flat&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/Random_Forest-228B22?style=flat&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/KNN-9C27B0?style=flat&logoColor=white" height="40"/> |
+| **Web Development** | <img src="https://skillicons.dev/icons?i=html,css,js,flask,django&theme=dark" height="40"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" height="40"/> |
+| **Data Science** | <img src="https://skillicons.dev/icons?i=numpy&theme=dark" height="40"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/Seaborn-76B900?style=flat&logoColor=white" height="40"/> |
+| **Visualization** |<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> |
+| **Development Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" height="40"/> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" height="40"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" height="40"/> <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat&logoColor=white" height="40"/> |
+
+---
+
+## 🎯 **Featured Projects**
+
+### 🔬 **[Medical RAG Chatbot](https://github.com/arpan-69/End_to_end_medical_assistant)**
+<div style="background: linear-gradient(135deg, #1e1b4b 0%, #312e81 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #10b981;">
+
+**AI-powered medical assistant** using RAG architecture with LangChain, ChromaDB, and BioMistral-7B  
+🎯 **Achievement:** 42% reduction in hallucinations through structured retrieval and medical templates  
+🛠️ **Tech Stack:** RAG, LangChain, ChromaDB, BioMistral-7B
+
+</div>
+
+### 🖼️ **[RenderX – Bidirectional Image Generator](https://github.com/JyotikaJayani-08/Mini_Project)**
+<div style="background: linear-gradient(135deg, #1e1b4b 0%, #312e81 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #f59e0b;">
+
+**Deep learning platform** converting sketches ↔ realistic images using custom Pix2Pix GAN  
+🎯 **Performance:** SSIM score of 0.82 across multiple image categories  
+🛠️ **Tech Stack:** Custom Pix2Pix GAN, Deep Learning, Computer Vision
+
+</div>
+
+### 🏥 **[Cancer Prediction Model](https://github.com/arpan-69/Cancer-predicition)**
+<div style="background: linear-gradient(135deg, #1e1b4b 0%, #312e81 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #ef4444;">
+
+**High-accuracy cancer prediction** using ensemble machine learning approaches  
+🎯 **Achievement:** 99% accuracy with XGBoost, SVM, and Random Forest  
+🛠️ **Tech Stack:** XGBoost, SVM, Random Forest, Feature Engineering, Cross-validation
+
+</div>
+
+---
+
+## 📜 **Patent**
+
+<div style="background: linear-gradient(135deg, #1e1b4b 0%, #312e81 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #a855f7;">
+
+**Title:** Integrated Centralized Healthcare Management System for Efficient and Accessible Patient Care  
+**Application No:** 202531012221 A  
+**Published:** Feb 28, 2025  
+🔗 **[Patent Link](https://search.ipindia.gov.in/IPOJournal/Journal/Patent)**
+
+</div>
+
+---
+
+## 🌍 **Community Impact**
+
+<div style="background: linear-gradient(135deg, #1e1b4b 0%, #312e81 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #06b6d4;">
+
+**TPH Society Volunteer** (2024–Present)
+- Mental health awareness and support initiatives
+- Elderly care assistance in old-age homes
+- Essential donations to underprivileged communities
+
+</div>
+
+---
+
+## 🏆 **Certifications**
+
+- ✅ [HackerRank Python Certification](https://www.hackerrank.com/certificates/d8aa4ac36aa0)
+- ✅ Deloitte Australia – Data Analytics Simulation
+- ✅ AWS Cloud Foundations & Architecture (AWS Academy)
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpan-69&show_icons=true&theme=tokyonight&bg_color=1e1b4b&border_color=a855f7&icon_color=a855f7&text_color=e2e8f0&title_color=a855f7" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpan-69&layout=compact&theme=tokyonight&bg_color=1e1b4b&border_color=a855f7&text_color=e2e8f0&title_color=a855f7" width="49%"/>
+</div>
+
+---
+
+## 🤝 **Let's Connect**
+
+<div align="center">
+<table>
   <tr>
-    <td align="left" style="vertical-align: top; width: 70%;">
-      <p>
-        💼 Looking for <strong>AI/ML Engineering</strong> or <strong>Full-Stack AI Dev</strong> opportunities<br>
-        🛠️ Open to hackathons, team projects, and contributing to impactful open source<br>
-        📩 Drop me an email: <a href="mailto:arpanofficial321@gmail.com">arpanofficial321@gmail.com</a>
-      </p>
+    <td style="vertical-align: top; width: 70%;">
+      <div style="background: linear-gradient(135deg, #1e1b4b 0%, #312e81 100%); padding: 20px; border-radius: 10px;">
+        <h3>🚀 Open for Opportunities</h3>
+        <p>
+          💼 Seeking <strong>AI/ML Engineering</strong> and <strong>Full-Stack AI Development</strong> roles<br>
+          🛠️ Available for hackathons, collaborative projects, and open-source contributions<br>
+          📧 <strong>Email:</strong> <a href="mailto:arpanofficial321@gmail.com">arpanofficial321@gmail.com</a>
+        </p>
+      </div>
     </td>
-    <td align="right" style="vertical-align: top; width: 30%;">
-      <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="160px" alt="Pikachu waving hi!"/>
+    <td style="vertical-align: top; width: 30%;" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="150px" alt="AI Animation"/>
     </td>
   </tr>
 </table>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:a855f7&height=120&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=20&fontColor=ffffff" />
+</div>
