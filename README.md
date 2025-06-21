@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 
 🎓 Final-year B.Tech CSE student at **KIIT University** (CGPA: 9.03)  
-🧠 Minor in **Applied Machine Learning**, passionate about **AI**, **LLMs**, **Computer Vision**, and **RAG Systems**  
+🧠 Persuing minor in **Applied Machine Learning**, passionate about **AI**, **LLMs**, **Computer Vision**, **AI Agents** and **RAG Systems**  
 💡 I love building practical, high-impact tech solutions that help people and solve real-world problems  
 📌 Patent holder in centralized healthcare systems  
 🌱 Currently learning: `Next.js`, `LLMs`, `Hybrid AI Agents`, and `Cloud Deployment`  
@@ -56,8 +56,8 @@
 
 ## 🌍 Volunteer Work – TPH Society (2024–present)
 
-- Mental health awareness & support  
-- Assisted elderly in old-age homes  
+- **Mental health awareness & support**
+- - Assisted elderly in old-age homes  
 - Donated essentials to the underprivileged  
 
 ---
